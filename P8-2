@@ -1,0 +1,14 @@
+#include<stdio.h>
+
+int main (){
+int a, b;
+printf("INGRESE LOS DOS NUMEROS\n");
+scanf("%d",&a);
+scanf("%d",&a);
+
+if (a < b) 
+printf("El primero %d es mayor que el segundo %d\n",a,b);
+else
+printf("El primero %d es menor que el segundo %d\n",a,b);
+return 0;
+}
