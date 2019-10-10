@@ -1,0 +1,10 @@
+#include<stdio.h>
+#include<stdbool.h>
+
+int main (){
+
+if (true) 
+printf("Esta condicion siempre es verdadera\n");
+printf("Esta linea no pertenece al if\n");
+return 0;
+}
